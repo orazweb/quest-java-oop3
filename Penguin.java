@@ -48,7 +48,7 @@ public class Penguin extends Bird implements Swim {
     }
 
     /**
-     * swin upward
+     * swim upward
      * @param meters depths decrease
      * @return depth
      */
